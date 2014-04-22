@@ -9,13 +9,7 @@ Power-over-Ethernet Home Automation Project
 5. Designs Completed
 6. Contact Information
 
-
-
-
-
 1.Introduction
-
-
 
 2.Prior Art
 http://www.smartthings.com/
@@ -23,6 +17,12 @@ https://www.insteon.com/
 http://www.smarthome.com
 http://www.instructables.com/id/Arduino-Home-automation/
 
+3. Design Goals
+
+Lights (traditional, automatic)
+Door Locks (mechanical, electro-magnetic)
+Heating/Cooling (thermostat, thermal sensors)
+Security (camera, motion sensing)
 
 6. Contact Information
 John -- john.henise@gmail.com

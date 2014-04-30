@@ -18,6 +18,7 @@ http://www.smarthome.com
 http://www.instructables.com/id/Arduino-Home-automation/
 http://www.nuleds.com/
 http://lumencache.com/
+http://michaelteeuw.nl/post/84026273526/and-there-it-is-the-end-result-of-the-magic
 
 
 3. Design Goals
@@ -28,6 +29,7 @@ Heating/Cooling (thermostat, thermal sensors)
 Security (camera, motion sensing)
 Contextual Mobility Services (geographical based triggers)
 Car Interface/UI
+Smart-Mirror
 
 6. Contact Information
 John -- john.henise@gmail.com

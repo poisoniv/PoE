@@ -48,13 +48,13 @@ void initialize_port1(void)
 	p1_7 = PORT_LOW;
 	
 	P1OUT |= p1_7;
-	P1OUT = (P1OUT << 1) | pd1_6;
-	P1OUT = (P1OUT << 1) | pd1_5;
-	P1OUT = (P1OUT << 1) | pd1_4;
-	P1OUT = (P1OUT << 1) | pd1_3;
-	P1OUT = (P1OUT << 1) | pd1_2;
-	P1OUT = (P1OUT << 1) | pd1_1;
-	P1OUT = (P1OUT << 1) | pd1_0;
+	P1OUT = (P1OUT << 1) | p1_6;
+	P1OUT = (P1OUT << 1) | p1_5;
+	P1OUT = (P1OUT << 1) | p1_4;
+	P1OUT = (P1OUT << 1) | p1_3;
+	P1OUT = (P1OUT << 1) | p1_2;
+	P1OUT = (P1OUT << 1) | p1_1;
+	P1OUT = (P1OUT << 1) | p1_0;
 }
 
 void initialize_port4(void) 
@@ -94,23 +94,11 @@ void initialize_port4(void)
 	p4_7 = PORT_LOW;
 	
 	P4OUT |= p4_7;
-	P4OUT = (P4OUT << 1) | pd4_6;
-	P4OUT = (P4OUT << 1) | pd4_5;
-	P4OUT = (P4OUT << 1) | pd4_4;
-	P4OUT = (P4OUT << 1) | pd4_3;
-	P4OUT = (P4OUT << 1) | pd4_2;
-	P4OUT = (P4OUT << 1) | pd4_1;
-	P4OUT = (P4OUT << 1) | pd4_0;
+	P4OUT = (P4OUT << 1) | p4_6;
+	P4OUT = (P4OUT << 1) | p4_5;
+	P4OUT = (P4OUT << 1) | p4_4;
+	P4OUT = (P4OUT << 1) | p4_3;
+	P4OUT = (P4OUT << 1) | p4_2;
+	P4OUT = (P4OUT << 1) | p4_1;
+	P4OUT = (P4OUT << 1) | p4_0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
